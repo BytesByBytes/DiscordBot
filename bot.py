@@ -6,7 +6,7 @@ import config
 import discord_token
 
 
-# Retrieve configuration from config.py
+# Retrieve joining token and prefix from discord_token.py
 TOKEN = discord_token.DISCORD_TOKEN
 PREFIX = discord_token.BOT_PREFIX
 
