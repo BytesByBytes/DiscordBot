@@ -16,6 +16,7 @@ logs/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+discord_token.py
 
 # Mono auto generated files
 mono_crash.*
